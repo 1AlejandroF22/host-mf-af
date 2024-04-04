@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Navbar from "navbarComp/Navbar";
-import Counter from "counterComp/Counter";
+import Navbar from "navbar/Navbar";
+import Counter from "counter/Counter";
 
 const App = () => (
   <>
