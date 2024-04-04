@@ -44,7 +44,7 @@ module.exports = (_, argv) => ({
       name: "host",
       filename: "remoteEntry.js",
       remotes: {
-        navbar: "navbarComp@https://navbar-mf-af.netlify.app/remoteEntry.js",
+        navbarComp: "navbarComp@https://navbar-mf-af.netlify.app/remoteEntry.js",
         counterComp: "counterComp@https://counter-mf-af.netlify.app/remoteEntry.js",
       },
       exposes: {},
